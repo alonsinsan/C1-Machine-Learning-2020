@@ -73,7 +73,7 @@ Igualmente, hemos visto cómo funcionan las redes neuronales artificiales. La me
 - Con pocos datos, es posible que caigas en *overfitting* fácilmente. Necesitas tener un buen volumen de datos de pruebas para tener buenos resultados. 
 - El entrenamiento puede ser lento si tu red neuronal no está lo suficientemente optimizada. 
 
-***¿Cuándo es buena idea utilizar un Random Forest?***
+***¿Cuándo es buena idea utilizar una Red Neuronal?***
 - Cuando las variables de entrada parezcan no tener una correlación clara con los datos de salida. La red neuronal podría encontrar esas correlaciones ocultas con los pesos sinápticos. 
 - Cuando requieras alta precisión o extender el sistema que creas a múltiples datos diferentes. 
 
