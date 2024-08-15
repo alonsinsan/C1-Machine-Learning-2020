@@ -1,0 +1,15 @@
+Presentación en ppt o un notebook con el código
+Estructura
+    1. Presentación del dataset
+    2. Pregunta a resolver/explorar/pronosticar
+    3. Exploratorio para conocer más a profundidad los datos teniendo en mente la pregunta del punto 2
+        Visualizaciones
+        Correlaciones
+    4. Propuesta del modelo
+        Identificar el tipo de modelo
+            Regresión
+            Clasificación
+            Clusterización
+        Desarrollo del modelo
+    5. Métricas de evaluación del modelo / Interpretación de los resultados
+    6. Conclusión (hay que responder la pregunta del punto 2)
